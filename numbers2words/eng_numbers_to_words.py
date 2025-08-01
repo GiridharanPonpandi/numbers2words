@@ -1,6 +1,6 @@
 import re
 
-from numbers_list import *
+from .numbers_list import *
 
 
 def decimal_and_real_number(inp):

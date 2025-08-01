@@ -1,5 +1,5 @@
 import re
-from numbers_list import *
+from .numbers_list import *
 def tam_above_1000(number, length):
     groups = []
     result = ''

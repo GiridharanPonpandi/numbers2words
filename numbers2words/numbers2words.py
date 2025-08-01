@@ -1,5 +1,5 @@
-from eng_numbers_to_words import *
-from tam_numbers_to_words import *
+from .eng_numbers_to_words import *
+from .tam_numbers_to_words import *
 
 
 def num2wordsIND(inp):
@@ -79,6 +79,7 @@ def num2wordsTA(inp):
         return amount, cents
     else:
         return amount, ""
+
 
 
 
