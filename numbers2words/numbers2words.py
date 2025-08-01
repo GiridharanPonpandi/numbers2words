@@ -81,5 +81,4 @@ def num2wordsTA(inp):
         return amount, ""
 
 
-amount = num2wordsIND('84545515524551.1')
-print(amount)
+
